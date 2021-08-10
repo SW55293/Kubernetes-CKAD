@@ -9,7 +9,10 @@
 ```
 
 ```diff
-(kubectl get pods)@@
+! alskdl;kd
+# dasdad
+*** rdfgdfg ***
+
 - text in red
 ```
 
