@@ -9,7 +9,7 @@
 ```
 
 ```diff
-@ kubectl get pods
+(kubectl get pods)@@
 - text in red
 ```
 
