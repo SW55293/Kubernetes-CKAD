@@ -6,13 +6,12 @@
 
 ```terminal
     kubectl get pods
-    
+```
+
 ```diff
+@ kubectl get pods
 - text in red
 ```
-
-```
-
 
 
 
