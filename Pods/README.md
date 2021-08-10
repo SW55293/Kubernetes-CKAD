@@ -1,10 +1,13 @@
 
 <h1 align="center">All commands related to Pods</h1>
-<hr> -->
+<hr>
 
-## About ##
+<h4> kubectl get pods </h4>
 
-<h4 color="blue"> kubectl get pods </h4>
+```terminal
+    kubectl get pods
+```
+
 
 
 
