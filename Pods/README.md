@@ -3,7 +3,7 @@
 
 
 * kubectl get pods
-- This will
+    - This will
 
 
 
