@@ -1,4 +1,4 @@
-# How to create a single pod with a yaml file
+# How to create a single pod
 
 apiVersion: v1
 kind: Pod
