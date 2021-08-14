@@ -1,4 +1,4 @@
-# How to create a single pod
+# How to create a single pod running nginx
 
 apiVersion: v1
 kind: Pod
